@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  pavan:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-01-31T08:20:05.183159003Z"
+    description: A Helm chart for Kubernetes
+    digest: 01243b204d76f297f89cf0100484cf416a2decb253928197370312b73706dd00
+    name: pavan
+    type: application
+    urls:
+    - pavan-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-01-31T08:20:05.182700561Z"
